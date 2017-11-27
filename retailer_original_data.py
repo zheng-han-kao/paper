@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import json
 
-token = 'EAAWJXd7dIIMBAGUQWZAooVliv4LlAZCMWbidU6ZBvD53PAtGyKsxlfStuzGd2fDFr6iiAr0ULdjyB24fljH6WQityZAIpCnvN4xOi7sCbCH1nuZAD5gnNmJZB7hrJ479Ilf0ZAdKErD180ronMWqITpKJNVTcmi6ckZD'
+token = ''
 retailer = 'costco'
 
 comment_break = 0
