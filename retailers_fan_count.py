@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import json
 from matplotlib.ticker import MultipleLocator, FormatStrFormatter  
 
-token = 'EAAWJXd7dIIMBACz10ycB3RFJBaZBcZA1kAANz6fDqOQa10nXgXhKhvWJzLk9rrlcwZCATOV0YgRhqDOekvBOnnk8ZCnzdOf2A1efUkRM9fw3QHY5erE41hb0F8P5smahyV4mKOVyzXNbCjiKIvXjOUq2ZAWsnutmKbBRJGCeDaAZDZD'
+token = ''
 
 dict_page_id_fancou = {'aldiusa': ['218299471593750'], 'amazon': ['9465008123'], 'carrefour': ['176105152520900'], 'costco': ['15240089946'], 'kroger': ['60686173217'],
                 'Lidl Deutschland': ['278565202257'], 'metro': ['119707938207'], 'tesco': ['112463368812803'], 'walgreens': ['117497138610'], 'walmart': ['159616034235']}
