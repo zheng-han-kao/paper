@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import json
 import datetime
 
-token = 'EAAWJXd7dIIMBACz10ycB3RFJBaZBcZA1kAANz6fDqOQa10nXgXhKhvWJzLk9rrlcwZCATOV0YgRhqDOekvBOnnk8ZCnzdOf2A1efUkRM9fw3QHY5erE41hb0F8P5smahyV4mKOVyzXNbCjiKIvXjOUq2ZAWsnutmKbBRJGCeDaAZDZD'
+token = ''
 company = 'walmart'
 hour_post = [0] * 24
 with open('data/' + company + '/' + company + '2.json', 'r') as ff:
