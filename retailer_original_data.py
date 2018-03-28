@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import json
 
-token = 'EAAWJXd7dIIMBACz10ycB3RFJBaZBcZA1kAANz6fDqOQa10nXgXhKhvWJzLk9rrlcwZCATOV0YgRhqDOekvBOnnk8ZCnzdOf2A1efUkRM9fw3QHY5erE41hb0F8P5smahyV4mKOVyzXNbCjiKIvXjOUq2ZAWsnutmKbBRJGCeDaAZDZD'
+token = ''
 retailer = 'walmart'
 
 comment_break = 0
